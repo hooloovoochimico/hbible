@@ -1,13 +1,13 @@
 {
-  "version": "20261124T104658",
-  "generatedAt": "2026-11-24T10:46:58.599Z",
+  "version": "20261124T105500",
+  "generatedAt": "2026-11-24T10:55:00.888Z",
   "formats": {
     "originals": 2
   },
   "minApp": 1000010,
   "packages": {
     "bible/NTA.json": {
-      "hash": "8e504e66133db917645ead7ede666c62a7c30f5d6176f7f3c42305d2f126e767",
+      "hash": "5bfdffc2ddb264e9cb06bdd26dc6e11afb78d6a1e896d6f238cfd5eebc9d514c",
       "size": 5008245
     },
     "bible/R27.json": {
